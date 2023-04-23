@@ -1,0 +1,25 @@
+.Home {
+    display: flex;
+    margin: 8rem 0 4rem 0;
+    padding: 0rem 4rem;
+}
+
+.Home-Left {
+    width: 50%;
+    margin: auto;
+}
+
+.Home-Right {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.Nav-Section {
+    margin-bottom: 4rem;
+}
+
+.Nav-Head {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.Footer {
+    border-top: 1px solid black;
+    margin-top: 4rem;
+    padding: 2rem 0 1rem 0;
+}
+
+.Footer-Text,
+.Footer-Text a {
+    font-size: small;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.4);
+}

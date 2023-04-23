@@ -1,0 +1,38 @@
+.About {
+    display: flex;
+    padding: 0rem 4rem;
+}
+
+.About-Left {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+}
+
+.About-Right {
+    width: 50%;
+    margin: auto;
+}
+
+.About-Sub {
+    text-decoration: underline;
+}
+
+.About-Content {
+    margin-bottom: 0.8rem;
+}
+
+.Skills-List {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.Nav-Section {
+    margin-bottom: 4rem;
+}
+
+.Nav-Head {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}

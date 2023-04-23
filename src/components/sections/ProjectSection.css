@@ -1,0 +1,50 @@
+.Projects {
+    display: flex;
+    flex-direction: column;
+    padding: 0rem 4rem;
+}
+
+.Project-Items {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 4rem;
+}
+
+.Project-Item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+
+.Project-Image {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 1rem;
+}
+
+.Project-Desc {
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+}
+
+.Project-Details-Button {
+    font-weight: 600;
+    align-self: flex-end;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.Project-Details-Button:hover {
+    cursor: pointer;
+}
+
+.Nav-Section {
+    margin-bottom: 4rem;
+}
+
+.Nav-Head {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}

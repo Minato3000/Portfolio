@@ -1,0 +1,38 @@
+.Contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 4rem;
+    margin: auto;
+}
+
+.Contact-Detail-List {
+    margin: auto;
+    text-align: start;
+    list-style-type: none;
+}
+
+.Contact-Detail-List-Head {
+    font-weight: 600;
+    width: 50%;
+    padding: 1rem 0;
+    cursor: default;
+}
+
+.Contact-Detail-List-Item,
+.Contact-Detail-List-Item a {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: default;
+}
+
+.Nav-Section {
+    margin-bottom: 4rem;
+}
+
+.Nav-Head {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}
